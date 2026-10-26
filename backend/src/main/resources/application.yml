@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ai-auto-edit-backend
+
+server:
+  address: 127.0.0.1
+  port: ${SERVER_PORT:8080}
